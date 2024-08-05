@@ -263,7 +263,6 @@ button {
 .logo a img {
      z-index: 9999;
      position: relative;
-     max-width: 50%;
 }
 
 .logo::before {
