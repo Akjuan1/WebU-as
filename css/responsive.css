@@ -200,7 +200,7 @@
     }
 
     .logo a img {
-        max-width: 90%;
+        max-width: 50%;
    }
     .logo::before {
         width: 292px;
